@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Portfolio Website",
+      "imageSrc": "projects/project.png",
+      "description": "I developed a personal portfolio website using React and CSS. The website showcased my skills, experience, and previous projects. The site included a responsive layout and utilized modern web design techniques to create an engaging user experience.",
+      "skills": ["React", "CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Sreenadhpp/React-Portfolio-Website"
+    },
+    {
+      "title": "Django-React-Notes-App",
+      "imageSrc": "projects/project.png",
+      "description": "A React-Django note app integrates a dynamic React front-end with a robust Django back-end to create a seamless, efficient note-taking application. This full-stack project showcases my skills in modern web development",
+      "skills": ["React", "Django", "PostgreSQL"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Sreenadhpp/Django-React-Notes-App"
+    },
+    {
+      "title": "E-commerce Website",
+      "imageSrc": "projects/project.png",
+      "description": "A Django e-commerce website demonstrates my ability to develop robust, scalable online shopping platforms, featuring functionalities such as user authentication, product management, and secure payment processing. ",
+      "skills": ["Django", "HTML & CSS", "Bootstrap"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Sreenadhpp/Django-Ecommerce"
+    }
+  ]

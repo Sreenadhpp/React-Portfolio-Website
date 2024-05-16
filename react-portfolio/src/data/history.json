@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Build in-demand skills",
+      "organisation": "Brototype",
+      "startDate": "Feb, 2024",
+      "endDate": "Present",
+      "experiences": ["Build Some Projects"],
+      "imageSrc": "history/brototype.png"
+    },
+    {
+      "role": "Building a strong foundation in Django ",
+      "organisation": "Network Academy",
+      "startDate": "May, 2022",
+      "endDate": "Dec, 2022",
+      "experiences": ["In there, we got training in Python and related Python framework Django"],
+      "imageSrc": "history/network.png"
+    }
+  ]
